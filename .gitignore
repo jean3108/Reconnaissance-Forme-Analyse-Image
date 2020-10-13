@@ -1,0 +1,4 @@
+**/*.ipynb_checkpoints/
+SIFT_BoW/tmp
+SIFT_BoW/data
+SIFT_BoW/tp1-2.pdf
